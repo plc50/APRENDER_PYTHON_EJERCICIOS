@@ -82,3 +82,4 @@ El Tema 3 de POO se desarrolla a través de los siguientes bloques de prácticas
 Este repositorio sirve como un compendio personal de los conocimientos adquiridos en "Programación II". La relevancia y actualidad de los contenidos, provenientes del Grado en Ciberseguridad e Inteligencia Artificial de la UMA, buscan fomentar una comprensión sólida y aplicable de Python.
 
 El objetivo es que este trabajo refleje una dedicación al aprendizaje riguroso y a la práctica constante, elementos clave para el desarrollo profesional en estas disciplinas tecnológicas.
+¡¡¡¡Se aprende PROGRAMANDO!!!!
