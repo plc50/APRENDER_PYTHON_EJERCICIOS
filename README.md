@@ -48,7 +48,7 @@ A continuación, se presenta el índice de los bloques, reflejando el temario of
 
 ---
 
-### 🏛️ Bloques 3, 4 y 5: [Programación Orientada a Objetos (POO) en Python](./)
+### 🏛️ Bloque 3: [Programación Orientada a Objetos (POO) en Python](./)
 *(Corresponde al Tema 3 del Grado)*
 
 **Enfoque General de POO:** Comprender y aplicar el paradigma de Programación Orientada a Objetos para el diseño de software modular, reutilizable y extensible, un pilar en el desarrollo de sistemas complejos en ciberseguridad e IA.
